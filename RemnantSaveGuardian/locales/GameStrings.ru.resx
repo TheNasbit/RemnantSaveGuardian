@@ -1585,4 +1585,16 @@
   <data name="WorldBoss" xml:space="preserve">
     <value>Мировой босс</value>
   </data>
+  <data name="Amulet_01" xml:space="preserve">
+    <value>KineticShieldExchanger</value>
+  </data>
+  <data name="Amulet_02" xml:space="preserve">
+    <value>{Amulet_InertOvercharger}</value>
+  </data>
+  <data name="Amulet_03" xml:space="preserve">
+    <value>{Amulet_EmergencySwitch}</value>
+  </data>
+  <data name="Ring_DullSteelRing" xml:space="preserve">
+    <value>{Ring_BrightSteelRing}</value>
+  </data>
 </root>

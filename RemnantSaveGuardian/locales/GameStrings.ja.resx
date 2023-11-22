@@ -1555,4 +1555,22 @@
   <data name="World_RootEarth" xml:space="preserve">
     <value>ルート地球</value>
   </data>
+  <data name="Amulet_KoaraKuri" xml:space="preserve">
+    <value>{Amulet_KuriKuriCharm}</value>
+  </data>
+  <data name="Amulet_01" xml:space="preserve">
+    <value>KineticShieldExchanger</value>
+  </data>
+  <data name="Amulet_02" xml:space="preserve">
+    <value>{Amulet_InertOvercharger}</value>
+  </data>
+  <data name="Amulet_03" xml:space="preserve">
+    <value>{Amulet_EmergencySwitch}</value>
+  </data>
+  <data name="Ring_DullSteelRing" xml:space="preserve">
+    <value>{Ring_BrightSteelRing}</value>
+  </data>
+  <data name="Ring_LivingStone" xml:space="preserve">
+    <value>{Ring_LithicSignet}</value>
+  </data>
 </root>

@@ -423,9 +423,6 @@
   <data name="AshenWasteland" xml:space="preserve">
     <value>잿빛 황무지</value>
   </data>
-  <data name="Astropath's Respite" xml:space="preserve">
-    <value>아스트로패스의 유예</value>
-  </data>
   <data name="Asylum" xml:space="preserve">
     <value>Asylum</value>
   </data>
@@ -477,9 +474,6 @@
   <data name="BriellasGarden" xml:space="preserve">
     <value>브리엘라의 정원</value>
   </data>
-  <data name="Brocwithe Quarter" xml:space="preserve">
-    <value>브록위트 쿼터</value>
-  </data>
   <data name="BrokenTomb" xml:space="preserve">
     <value>The Weald Stalker/The Gnarled Archer</value>
   </data>
@@ -489,11 +483,8 @@
   <data name="Cass" xml:space="preserve">
     <value>캐스</value>
   </data>
-  <data name="Cathedral of Omens" xml:space="preserve">
-    <value>전조의 대성당</value>
-  </data>
   <data name="CathedralOfSeasons" xml:space="preserve">
-    <value>Cathedral of Omens</value>
+    <value>전조의 대성당</value>
   </data>
   <data name="Challenger" xml:space="preserve">
     <value>도전자</value>
@@ -510,14 +501,11 @@
   <data name="CottonsKiln" xml:space="preserve">
     <value>Cotton's Kiln</value>
   </data>
-  <data name="Council Chamber" xml:space="preserve">
-    <value>의회실</value>
-  </data>
   <data name="Council Tribunal" xml:space="preserve">
     <value>의회 재판소</value>
   </data>
   <data name="CouncilChamber" xml:space="preserve">
-    <value>Council Chamber</value>
+    <value>의회실</value>
   </data>
   <data name="CrimsonHarvest" xml:space="preserve">
     <value>The Burning</value>
@@ -528,11 +516,8 @@
   <data name="DarkConduit" xml:space="preserve">
     <value>Dark Conduit</value>
   </data>
-  <data name="Dormant N'Erudian Facility" xml:space="preserve">
-    <value>휴면 네루디언 시설</value>
-  </data>
   <data name="DormantNErudianFacility" xml:space="preserve">
-    <value>Dormant N'Erudian Facility</value>
+    <value>휴면 네루디언 시설</value>
   </data>
   <data name="DranGrenadier" xml:space="preserve">
     <value>Gwendil The Unburnt</value>
@@ -603,23 +588,17 @@
   <data name="Foesaken Quarter" xml:space="preserve">
     <value>버림받은 구역</value>
   </data>
-  <data name="Forgotten Prison" xml:space="preserve">
-    <value>잊힌 감옥</value>
-  </data>
   <data name="ForgottenField" xml:space="preserve">
     <value>잊힌 들판</value>
   </data>
   <data name="ForgottenPrison" xml:space="preserve">
-    <value>Forgotten Prison</value>
+    <value>잊힌 감옥</value>
   </data>
   <data name="Gems" xml:space="preserve">
     <value>변이체</value>
   </data>
-  <data name="Gilded Chambers" xml:space="preserve">
-    <value>금빛 방</value>
-  </data>
   <data name="GildedChambers" xml:space="preserve">
-    <value>Gilded Chambers</value>
+    <value>금빛 방</value>
   </data>
   <data name="GoldenHall_Nimue" xml:space="preserve">
     <value>Nimue's Retreat</value>
@@ -955,7 +934,7 @@
     <value>Decorum Cipher</value>
   </data>
   <data name="Quest_Story_AllFather_DranCity1_Template" xml:space="preserve">
-    <value>Brocwithe Quarter</value>
+    <value>브록위트 쿼터</value>
   </data>
   <data name="Quest_Story_AllFather_DranCity2_Template" xml:space="preserve">
     <value>Ironborough</value>
@@ -1518,11 +1497,8 @@
   <data name="SilverGold" xml:space="preserve">
     <value>The Statues</value>
   </data>
-  <data name="Spectrum Nexus" xml:space="preserve">
-    <value>스펙트럼 넥서스</value>
-  </data>
   <data name="SpectrumNexus" xml:space="preserve">
-    <value>Spectrum Nexus</value>
+    <value>스펙트럼 넥서스</value>
   </data>
   <data name="StasisSiege" xml:space="preserve">
     <value>House Lythla Glyphdoor</value>
@@ -1542,59 +1518,26 @@
   <data name="TerminusStation" xml:space="preserve">
     <value>종착역</value>
   </data>
-  <data name="The Chimney" xml:space="preserve">
-    <value>굴뚝</value>
-  </data>
   <data name="The Dark Conduit" xml:space="preserve">
     <value>암흑 전달자</value>
   </data>
   <data name="The Eon Vault" xml:space="preserve">
     <value>영겁의 금고</value>
   </data>
-  <data name="The Far Woods" xml:space="preserve">
-    <value>머나먼 숲</value>
-  </data>
   <data name="The Forbidden Grove" xml:space="preserve">
     <value>금단의 숲</value>
-  </data>
-  <data name="The Great Bole" xml:space="preserve">
-    <value>위대한 줄기</value>
-  </data>
-  <data name="The Great Hall" xml:space="preserve">
-    <value>대회당</value>
-  </data>
-  <data name="The Great Sewers" xml:space="preserve">
-    <value>거대한 하수도</value>
-  </data>
-  <data name="The Hatchery" xml:space="preserve">
-    <value>부화장</value>
-  </data>
-  <data name="The Lament" xml:space="preserve">
-    <value>애도</value>
   </data>
   <data name="The Lost Temple" xml:space="preserve">
     <value>잃어버린 사원</value>
   </data>
-  <data name="The Nameless Nest" xml:space="preserve">
-    <value>이름 없는 둥지</value>
-  </data>
-  <data name="The Putrid Domain" xml:space="preserve">
-    <value>타락의 영역</value>
-  </data>
-  <data name="The Red Throne" xml:space="preserve">
-    <value>붉은 왕좌</value>
-  </data>
   <data name="The Tormented Asylum" xml:space="preserve">
     <value>고통스러운 정신병원</value>
-  </data>
-  <data name="The Twisted Chantry" xml:space="preserve">
-    <value>일그러진 예배당</value>
   </data>
   <data name="The Withering Weald" xml:space="preserve">
     <value>시들어가는 삼림지대</value>
   </data>
   <data name="TheAstroPathsRespite" xml:space="preserve">
-    <value>The Astropath's Respite</value>
+    <value>아스트로패스의 유예</value>
   </data>
   <data name="TheCustodian" xml:space="preserve">
     <value>The Custodian</value>
@@ -1609,34 +1552,34 @@
     <value>팽창하는 빈터</value>
   </data>
   <data name="TheGreatBole" xml:space="preserve">
-    <value>The Great Bole</value>
+    <value>위대한 줄기</value>
   </data>
   <data name="TheGreatHall" xml:space="preserve">
-    <value>The Great Hall</value>
+    <value>대회당</value>
   </data>
   <data name="TheGreatSewers" xml:space="preserve">
-    <value>The Great Sewers</value>
+    <value>거대한 하수도</value>
   </data>
   <data name="TheHatchery" xml:space="preserve">
-    <value>The Hatchery</value>
+    <value>부화장</value>
   </data>
   <data name="TheHunter" xml:space="preserve">
     <value>The Huntress</value>
   </data>
   <data name="TheLament" xml:space="preserve">
-    <value>The Lament</value>
+    <value>애도</value>
   </data>
   <data name="TheNamelessNest" xml:space="preserve">
-    <value>The Nameless Nest</value>
+    <value>이름 없는 둥지</value>
   </data>
   <data name="ThePhantomWasteland" xml:space="preserve">
     <value>The Phantom Wasteland</value>
   </data>
   <data name="ThePutridDomain" xml:space="preserve">
-    <value>The Putrid Domain</value>
+    <value>타락의 영역</value>
   </data>
   <data name="TheRedThrone" xml:space="preserve">
-    <value>The Red Throne</value>
+    <value>붉은 왕좌</value>
   </data>
   <data name="TheSafe" xml:space="preserve">
     <value>Locked Safe</value>
@@ -1645,22 +1588,16 @@
     <value>{ImperialGardens}</value>
   </data>
   <data name="TheTwistedChantry" xml:space="preserve">
-    <value>The Twisted Chantry</value>
+    <value>일그러진 예배당</value>
   </data>
   <data name="ThreeMenMorris" xml:space="preserve">
     <value>The Postulant</value>
   </data>
-  <data name="Threshold of the Unknown" xml:space="preserve">
+  <data name="ThresholdOfTheUnknown" xml:space="preserve">
     <value>미지의 문턱</value>
   </data>
-  <data name="ThresholdOfTheUnknown" xml:space="preserve">
-    <value>Threshold of the Unknown</value>
-  </data>
-  <data name="Tiller's Rest" xml:space="preserve">
-    <value>틸러의 휴식</value>
-  </data>
   <data name="TillersRest" xml:space="preserve">
-    <value>Tiller's Rest</value>
+    <value>틸러의 휴식</value>
   </data>
   <data name="Timeless Horizon" xml:space="preserve">
     <value>영원한 지평선</value>
@@ -1674,14 +1611,11 @@
   <data name="Tower" xml:space="preserve">
     <value>The Elevator</value>
   </data>
-  <data name="Tower of the unseen" xml:space="preserve">
-    <value>보이지 않는 것의 타워</value>
-  </data>
   <data name="TowerHeist" xml:space="preserve">
     <value>E.D. Alpha</value>
   </data>
   <data name="TowerOfTheUnseen" xml:space="preserve">
-    <value>Tower of the Unseen</value>
+    <value>보이지 않는 것의 타워</value>
   </data>
   <data name="Towers_ElevatorShaft" xml:space="preserve">
     <value>Elevator Shaft</value>
@@ -1794,17 +1728,11 @@
   <data name="Underworld_TheClaw" xml:space="preserve">
     <value>The Claw</value>
   </data>
-  <data name="Vault of the Formless" xml:space="preserve">
+  <data name="VaultOfTheFormless" xml:space="preserve">
     <value>무형의 금고</value>
   </data>
-  <data name="VaultOfTheFormless" xml:space="preserve">
-    <value>Vault of the Formless</value>
-  </data>
-  <data name="Void Vessel Facility" xml:space="preserve">
-    <value>공허 함선 시설</value>
-  </data>
   <data name="VoidVesselFacility" xml:space="preserve">
-    <value>Void Vessel Facility</value>
+    <value>공허 함선 시설</value>
   </data>
   <data name="WailingField" xml:space="preserve">
     <value>The Laemir</value>
@@ -2007,9 +1935,6 @@
   <data name="Weapon_WorldsEdge" xml:space="preserve">
     <value>세상의 끝</value>
   </data>
-  <data name="Widow's Court" xml:space="preserve">
-    <value>과부의 궐</value>
-  </data>
   <data name="WindHollow" xml:space="preserve">
     <value>Flute Tower</value>
   </data>
@@ -2034,7 +1959,19 @@
   <data name="World_RootEarth" xml:space="preserve">
     <value>루트 지구</value>
   </data>
-  <data name="다부짐" xml:space="preserve">
-    <value>Rugged</value>
+  <data name="Ring_DullSteelRing" xml:space="preserve">
+    <value>{Ring_BrightSteelRing}</value>
+  </data>
+  <data name="TheChimney" xml:space="preserve">
+    <value>굴뚝</value>
+  </data>
+  <data name="TheFarWoods" xml:space="preserve">
+    <value>머나먼 숲</value>
+  </data>
+  <data name="WidowsCourt" xml:space="preserve">
+    <value>과부의 궐</value>
+  </data>
+  <data name="Trait_Rugged" xml:space="preserve">
+    <value>다부짐</value>
   </data>
 </root>
