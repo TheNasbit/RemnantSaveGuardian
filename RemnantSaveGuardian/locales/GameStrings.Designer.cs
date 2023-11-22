@@ -1611,6 +1611,15 @@ namespace RemnantSaveGuardian.locales {
         /// <summary>
         ///   Looks up a localized string similar to Mirror Floor.
         /// </summary>
+        public static string Halls {
+            get {
+                return ResourceManager.GetString("Halls", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mirror Floor.
+        /// </summary>
         public static string Halls_DLC {
             get {
                 return ResourceManager.GetString("Halls_DLC", resourceCulture);
@@ -1861,7 +1870,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Leywise.
         /// </summary>
         public static string Leywise {
             get {
@@ -2446,6 +2455,15 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Chain Of Command.
+        /// </summary>
+        public static string Mod_ChainOfCommand {
+            get {
+                return ResourceManager.GetString("Mod_ChainOfCommand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Concussive Shot.
         /// </summary>
         public static string Mod_ConcussiveShot {
@@ -2572,7 +2590,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Ring Of Spears.
         /// </summary>
         public static string Mod_RingOfSpears {
             get {
@@ -2721,6 +2739,15 @@ namespace RemnantSaveGuardian.locales {
         public static string Mutators {
             get {
                 return ResourceManager.GetString("Mutators", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to N&apos;Erud.
+        /// </summary>
+        public static string Nerud {
+            get {
+                return ResourceManager.GetString("Nerud", resourceCulture);
             }
         }
         
@@ -3229,6 +3256,15 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to A&apos;Taerii Booster.
+        /// </summary>
+        public static string Ring_ATaeriiBooster {
+            get {
+                return ResourceManager.GetString("Ring_ATaeriiBooster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Atonement Fold.
         /// </summary>
         public static string Ring_AtonementFold {
@@ -3400,7 +3436,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Bright Steel Ring.
+        ///   Looks up a localized string similar to Dull Steel Ring.
         /// </summary>
         public static string Ring_BrightSteelRing {
             get {
@@ -3472,7 +3508,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Burden Of The Rebel.
+        ///   Looks up a localized string similar to Burden of the Rebel.
         /// </summary>
         public static string Ring_BurdenOfTheRebel {
             get {
@@ -3481,7 +3517,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Burden Of The Sciolist.
+        ///   Looks up a localized string similar to Burden of the Sciolist.
         /// </summary>
         public static string Ring_BurdenOfTheSciolist {
             get {
@@ -3693,6 +3729,15 @@ namespace RemnantSaveGuardian.locales {
         public static string Ring_DrzyrSniperSigil {
             get {
                 return ResourceManager.GetString("Ring_DrzyrSniperSigil", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {Ring_BrightSteelRing}.
+        /// </summary>
+        public static string Ring_DullSteelRing {
+            get {
+                return ResourceManager.GetString("Ring_DullSteelRing", resourceCulture);
             }
         }
         
@@ -4777,6 +4822,15 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Seeker&apos;s Rest.
+        /// </summary>
+        public static string SeekersRest {
+            get {
+                return ResourceManager.GetString("SeekersRest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sentinel&apos;s Keep.
         /// </summary>
         public static string SentinelsKeep {
@@ -4795,7 +4849,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Sewer.
         /// </summary>
         public static string Sewer {
             get {
@@ -6253,7 +6307,7 @@ namespace RemnantSaveGuardian.locales {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Sparkfire Shotgun.
         /// </summary>
         public static string Weapon_Sparkfire {
             get {
@@ -6393,6 +6447,15 @@ namespace RemnantSaveGuardian.locales {
         public static string Weapons {
             get {
                 return ResourceManager.GetString("Weapons", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Whispers.
+        /// </summary>
+        public static string Whispers {
+            get {
+                return ResourceManager.GetString("Whispers", resourceCulture);
             }
         }
         

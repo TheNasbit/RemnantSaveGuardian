@@ -1021,7 +1021,7 @@
     <value>Burden of the Mariner</value>
   </data>
   <data name="Ring_BurdenOfTheRebel" xml:space="preserve">
-    <value>Burden Of The Rebel</value>
+    <value>Burden of the Rebel</value>
   </data>
   <data name="Ring_BurdenOfTheStargazer" xml:space="preserve">
     <value>Burden of the Stargazer</value>
@@ -1903,7 +1903,7 @@
     <value>Diverting Heart</value>
   </data>
   <data name="Ring_BrightSteelRing" xml:space="preserve">
-    <value>Bright Steel Ring</value>
+    <value>Dull Steel Ring</value>
   </data>
   <data name="Ring_SapphireDreamstone" xml:space="preserve">
     <value>Sapphire Dreamstone</value>
@@ -1987,7 +1987,7 @@
     <value>Ritualist Scythe</value>
   </data>
   <data name="Weapon_Sparkfire" xml:space="preserve">
-    <value></value>
+    <value>Sparkfire Shotgun</value>
   </data>
   <data name="Weapon_Scythe" xml:space="preserve">
     <value>Steel Scythe</value>
@@ -2083,7 +2083,7 @@
     <value>Sewer Hole</value>
   </data>
   <data name="Sewer" xml:space="preserve">
-    <value></value>
+    <value>Sewer</value>
   </data>
   <data name="Witch" xml:space="preserve">
     <value>Sunken Witch</value>
@@ -2104,7 +2104,7 @@
     <value>Knight Guard</value>
   </data>
   <data name="Mod_RingOfSpears" xml:space="preserve">
-    <value></value>
+    <value>Ring Of Spears</value>
   </data>
   <data name="MetaGem_Dreadful" xml:space="preserve">
     <value>Dreadful</value>
@@ -2149,7 +2149,7 @@
     <value>Burden of the Departed</value>
   </data>
   <data name="Ring_BurdenOfTheSciolist" xml:space="preserve">
-    <value>Burden Of The Sciolist</value>
+    <value>Burden of the Sciolist</value>
   </data>
   <data name="Ring_CrimsonDreamstone" xml:space="preserve">
     <value>Crimson Dreamstone</value>
@@ -2206,7 +2206,7 @@
     <value>White Glass Bead</value>
   </data>
   <data name="Leywise" xml:space="preserve">
-    <value></value>
+    <value>Leywise</value>
   </data>
   <data name="MetaGem_BottomFeeder" xml:space="preserve">
     <value>Bottom Feeder</value>
@@ -2261,5 +2261,26 @@
   </data>
   <data name="Trait_DarkPact" xml:space="preserve">
     <value>Dark Pact</value>
+  </data>
+  <data name="Ring_ATaeriiBooster" xml:space="preserve">
+    <value>A'Taerii Booster</value>
+  </data>
+  <data name="Halls" xml:space="preserve">
+    <value>Mirror Floor</value>
+  </data>
+  <data name="Mod_ChainOfCommand" xml:space="preserve">
+    <value>Chain Of Command</value>
+  </data>
+  <data name="Nerud" xml:space="preserve">
+    <value>N'Erud</value>
+  </data>
+  <data name="Ring_DullSteelRing" xml:space="preserve">
+    <value>{Ring_BrightSteelRing}</value>
+  </data>
+  <data name="SeekersRest" xml:space="preserve">
+    <value>Seeker's Rest</value>
+  </data>
+  <data name="Whispers" xml:space="preserve">
+    <value>Whispers</value>
   </data>
 </root>
